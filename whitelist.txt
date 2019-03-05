@@ -38236,9 +38236,7 @@ https://colab.research.google.com/drive/1TVgh4LcoEtguPWaEla0s2M87kPd_i00n
 http://acoe.annauniv.edu/
 https://acoe.annauniv.edu/Home/Aboutus
 https://acoe.annauniv.edu/Home
-
 https://acoe.annauniv.edu/Home/Acoedesk
-
 https://acoe.annauniv.edu/sems/
 https://acoe.annauniv.edu/rusa/
 https://acoe.annauniv.edu/Home/Dcoe
@@ -38401,13 +38399,6 @@ https://acoe.annauniv.edu/acoe_ud/staff/sems
 https://acoe.annauniv.edu/acoe_ud/staff/contact.php
 https://acoe.annauniv.edu/acoe_ud/staffregister/
 https://acoe.annauniv.edu/download_forms/flock.zip
-
-
-
-
-
-
-
 https://www.annauniv.edu/
 https://www.annauniv.edu/centres.php
 https://www.annauniv.edu/coe/main.html
@@ -38758,11 +38749,6 @@ https://www.annauniv.edu/CUICCentre/CUIC-Write-up.doc
 https://www.annauniv.edu/CUICCentre/CUIC-Write-up.pdf
 https://www.annauniv.edu/emmrc/photogallery.pdf
 https://www.annauniv.edu/POSH/harassment.pdf
-
-
-
-
-URL
 https://www.aukdc.edu.in/
 https://www.aukdc.edu.in/form/formlogin.htm
 https://www.aukdc.edu.in/onlinefee/gotoAgree.htm
@@ -39113,9 +39099,6 @@ https://www.aukdc.edu.in/fis/facultyprofile.php?ch=66124
 https://www.aukdc.edu.in/fis/facultyprofile.php?ch=66012
 https://www.aukdc.edu.in/fis/facultyprofile.php?ch=65920
 https://www.aukdc.edu.in/fis/facultyprofile.php?ch=65784
-
-
-
 https://ceghostel.in/
 https://ceghostel.in/home
 https://ceghostel.in/about
@@ -39123,14 +39106,8 @@ https://ceghostel.in/users/password/new
 https://ceghostel.in/magic_links/auth
 https://ceghostel.in/page/privacy-policy
 https://ceghostel.in/page/terms-and conditions
-
 https://ceghostel.in/users/sign_in
 https://ceghostel.in/page/tnc
-
-
-
-
-
 https://machinelearningmastery.com/
 https://machinelearningmastery.com
 https://machinelearningmastery.com/category/better-deep-learning/
